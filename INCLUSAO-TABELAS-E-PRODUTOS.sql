@@ -36,5 +36,5 @@ VALUES
 ,('20', 'Amazon', '1a Geração- Preto', 'Echo pop', 'Alto-falante 1.95"', 'Smartspeaker', 'IOT', 249.99)
 
 
-SELECT * FROM PRODUTOS ORDER BY [COD_PRODUTO];
+SELECT * FROM PRODUTOS;
 

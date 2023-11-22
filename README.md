@@ -1,4 +1,4 @@
-# ESTOQUE_PLAYCELL
+# TECH_STOCK
 PRODUTOS
 
 /*O banco de dados vai consistir em listar todos os itens da loja separados por nome, marca, modelo, tipo, 

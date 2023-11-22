@@ -54,6 +54,16 @@ VALUES
 ,('38', 'Bright', '0458', 'Mousepad', 'Army - Dimensões - 700mm x 300mm x 3 mm', 'Periférico', 'Mousepad', 39.98)
 ,('39', 'Bright', '0542', 'Combo Gamer', 'Mouse - Teclado - Mousepad', 'Periférico', 'Kit gamer', 109.99)
 ,('40', 'Bright', '0556', 'Apoio para digitação', 'Espuma e neoprene', 'Periférico', 'Apoio para digitação', 39.99)
+,('41', 'Bright', 'AC578', 'Suporte para notebook', 'Ergonômico - Suporta até 5kg', 'Periférico', 'N/A', 49.99)
+,('42', 'Bright', 'AC594', 'Suporte para gabinete', 'Com rodas - Suporte até 10kg', 'Periférico', 'N/A', 39.90)
+,('43', 'Bright', 'C05', 'Caixa de som', 'Bluetooth - 100W', 'Caixa de som bluetooth', 'Som', 349.99)
+,('44', 'Bright', 'FT005', 'Fonte de alimentação', 'Full modular', 'Hardware', 'Fonte', 659.90)
+,('45', 'Bright', 'GTC559', 'Teclado USB', 'Mecânico switch blue - RGB', 'Periférico', 'Teclado', 194.99)
+,('46', 'Bright', 'KMS001', 'Mouse sem fio', 'Kids pink', 'Periférico', 'Mouse', 54.99)
+,('47', 'Bright', 'KMS001', 'Mouse sem fio', 'Kids azul', 'Periférico', 'Mouse', 54.99)
+,('48', 'Bright', 'KMS001', 'Mouse sem fio', 'Kids amarelo', 'Periférico', 'Mouse', 54.99)
+,('49', 'Bright', 'ST001', 'Microfone de mesa', 'Streamer RGB', 'Periférico', 'Microfone', 179.99)
+,('50', 'C3 Tech', 'PH-01SI', 'Headset', '2x P2', 'Periférico', 'Fone', 19.99)
 
 
 SELECT * FROM PRODUTOS;

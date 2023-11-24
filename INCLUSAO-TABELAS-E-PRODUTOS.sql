@@ -84,6 +84,16 @@ VALUES
 ,('68', 'Exbom', 'CGHD-35', 'Case 2,5"', 'USB-A 3.0 - Suporte até 3TB', 'Periférico', 'Adaptador', 29.99)
 ,('69', 'Exbom', 'HDCA-S095', 'Caddy 9.5mm', 'Sata', 'Periférico', 'Adaptador', 19.99)
 ,('70', 'Exbom', 'HDCA-S127', 'Caddy 12.7mm"', 'Sata', 'Periférico', 'Adaptador', 19.99)
+,('71', 'Flex Gold', 'FX-110U', 'Bateria para telefone sem fio', 'Bateria de níquel de cádmio', 'Bateria', 'N/A', 19.99)
+,('72', 'Flex Gold', 'FX-2025', 'Bateria 2025', '3V', 'Bateria', 'N/A', 4.99)
+,('73', 'Flex Gold', 'FX-23A', 'Bateria 23A', '12V', 'Bateria', 'N/A', 9.99)
+,('74', 'Flex Gold', 'FX-23AE', 'Bateria 23AE', '12V', 'Bateria', 'N/A', 12.99)
+,('75', 'Flex Gold', 'FX-9K1', 'Bateria 6LR61', 'Alcalina 9V', 'Bateria', 'N/A', 19.99)
+,('76', 'Flex Gold', 'FX-AA25LB2', 'Pilha AA - 2 unidades', 'Recarregável 2500mAh 1.2v', 'Pilha', 'N/A', 24.99)
+,('77', 'Flex Gold', 'FX-AA25LB4', 'Pilha AA - 4 unidades', 'Recarregável 2500mAh 1.2v', 'Pilha', 'N/A', 39.99)
+,('78', 'Flex Gold', 'FX-AA27B2', 'Pilha AA - 2 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 16.99)
+,('79', 'Flex Gold', 'FX-AA27B4', 'Pilha AA - 4 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 29.99)
+,('80', 'Flex Gold', 'FX-AAA10LB2', 'Pilha AA - 2 unidades', 'Recarregável 1000mAh 1.2v', 'Pilha', 'N/A', 19.99)
 
 
 SELECT * FROM PRODUTOS;

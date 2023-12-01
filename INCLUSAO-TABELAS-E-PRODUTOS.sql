@@ -93,7 +93,7 @@ VALUES
 ,('77', 'Flex Gold', 'FX-AA25LB4', 'Pilha AA - 4 unidades', 'Recarregável 2500mAh 1.2v', 'Pilha', 'N/A', 39.99)
 ,('78', 'Flex Gold', 'FX-AA27B2', 'Pilha AA - 2 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 16.99)
 ,('79', 'Flex Gold', 'FX-AA27B4', 'Pilha AA - 4 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 29.99)
-,('80', 'Flex Gold', 'FX-AAA10LB2', 'Pilha AA - 2 unidades', 'Recarregável 1000mAh 1.2v', 'Pilha', 'N/A', 19.99)
+,('80', 'Flex Gold', 'FX-AAA10LB2', 'Pilha AAA - 2 unidades', 'Recarregável 1000mAh 1.2v', 'Pilha', 'N/A', 19.99)
 
 
 SELECT * FROM PRODUTOS;

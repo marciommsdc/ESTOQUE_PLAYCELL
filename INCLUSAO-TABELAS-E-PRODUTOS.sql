@@ -94,6 +94,16 @@ VALUES
 ,('78', 'Flex Gold', 'FX-AA27B2', 'Pilha AA - 2 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 16.99)
 ,('79', 'Flex Gold', 'FX-AA27B4', 'Pilha AA - 4 unidades', 'Recarregável 2700mAh 1.2v', 'Pilha', 'N/A', 29.99)
 ,('80', 'Flex Gold', 'FX-AAA10LB2', 'Pilha AAA - 2 unidades', 'Recarregável 1000mAh 1.2v', 'Pilha', 'N/A', 19.99)
+,('81', 'Flex Gold', 'FX-AAA10LB4', 'Pilha AAA - 4 unidades', 'Recarregável 1000mAh 1.2v', 'Pilha', 'N/A', 29.99)
+,('82', 'Flex Gold', 'FX-AAA11B2', 'Pilha AAA - 2 unidades', 'Recarregável 1100mAh 1.2v', 'Pilha', 'N/A', 16.99)
+,('83', 'Flex Gold', 'FX-AAA11B4', 'Pilha AAA - 4 unidades', 'Recarregável 1100mAh 1.2v', 'Pilha', 'N/A', 24.99)
+,('84', 'Flex Gold', 'FX-C03', 'Carregador de pilhas com 4 pilhas AA', 'Recarregável 2500mAh 1.2v', 'Pilha', 'N/A', 59.99)
+,('85', 'Fortrek', 'PWS-2003', 'Fonte de alimentação', 'ATX - 200 watts', 'Hardware', 'Fonte', 49.09)
+,('86', 'Fuji', 'Instax Mini 11', 'Câmera Instax', 'Azul', 'Fotografia', 'Câmera', 479.99)
+,('87', 'Gainward', 'Geforce GT 1030', 'Placa de vídeo', 'PCI-E 3.0 - 2GB DDR4', 'Hardware', 'Placa de vídeo', 599.90)
+,('88', 'Gamdias', 'Chione E2-120 Lite 2', 'Watercooler', '120mm RGB', 'Hardware', 'Watercooler', 249.99)
+,('89', 'Goldenfir', 'T650-240GB', 'SSD 240GB', 'Sata 3', 'Hardware', 'Armazenamento', 86.50)
+,('90', 'Goldenfir', 'T650-480GB', 'SSD 480GB', 'Sata 3', 'Hardware', 'Armazenamento', 132.99)
 
 
 SELECT * FROM PRODUTOS;
